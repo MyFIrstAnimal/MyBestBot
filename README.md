@@ -1,2 +1,0 @@
-# MyBestBot
-Created with CodeSandbox
